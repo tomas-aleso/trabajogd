@@ -1,0 +1,5 @@
+D:\gdd\Aplicacion Desktop\PalcoNet\Libreria\bin\Debug\Libreria.dll
+D:\gdd\Aplicacion Desktop\PalcoNet\Libreria\bin\Debug\Libreria.pdb
+D:\gdd\Aplicacion Desktop\PalcoNet\Libreria\obj\Debug\Libreria.dll
+D:\gdd\Aplicacion Desktop\PalcoNet\Libreria\obj\Debug\Libreria.pdb
+D:\gdd\Aplicacion Desktop\PalcoNet\Libreria\obj\Debug\Libreria.csprojResolveAssemblyReference.cache
